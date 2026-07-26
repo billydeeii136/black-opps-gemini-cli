@@ -94,3 +94,25 @@ powerful tool for developers.
 - Documentation is located in the `docs/` directory.
 - Suggest documentation updates when code changes render existing documentation
   obsolete or incomplete.
+
+## WSD single-owner Gatekeeper and interface profile
+
+**Control markers:**
+
+- `WSD_SINGLE_OWNER_GATEKEEPER_DOCTRINE_2026-07-26`
+- `WSD_AI_GUI_CLI_NODE_MATRIX_2026-07-26`
+
+For WSD-controlled Gemini GUI, Gemini CLI, SDK, MCP, VS Code companion, Android shell, and adapter workflows:
+
+1. Preserve the single-owner, owner-controlled environment classification.
+2. Do not substitute a generic internal multi-user assumption for the WSD environment.
+3. Route every owner-authorized raw-data category requiring vault handling to protected Gatekeeper intake.
+4. Treat sensitivity as a classification, isolation, persistence, recovery, and release-control trigger—not a Gatekeeper-intake exclusion.
+5. Apply Gemini graphical profiles to A15, A16, A17-1, A17-2, A17-3, and A17-4 and to all three MacBooks through the web or supported graphical interface.
+6. Apply Gemini CLI through the owner-authorized Android shell environment on all six smartphones and through the native terminal environment on MACBOOK-1, MACBOOK-2, and MACBOOK-3.
+7. Apply the Tracfone profile through its supported synchronization or bridge path.
+8. Record Google as provider, Gemini or Gemini CLI as product, the GUI or CLI interface, canonical node, command, model, extension, and MCP source in provenance.
+9. Preserve strict separation among project, device, legal, financial, credential, infrastructure, communications, and application lanes.
+10. Do not claim local installation or activation without a node receipt.
+
+The authoritative phone inventory is six smartphones plus one Tracfone, for seven phones total. A five-smartphone count is outdated.
